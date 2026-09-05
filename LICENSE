@@ -1,0 +1,25 @@
+RAMO PUBLIC RUNNER LICENSE v1.0
+Copyright (c) 2026 RAMO PU. All rights reserved.
+
+This repository is publicly visible only to permit zero-cost execution through
+standard public GitHub Actions runners. Public visibility does not place RAMO
+in the public domain and does not grant an open-source license.
+
+Permission is granted to view and fork the public runner wrapper for personal,
+non-commercial evaluation only.
+
+Without prior written permission from the copyright holder, you may not:
+1. sell, rent, sublicense, redistribute, or commercially exploit RAMO;
+2. operate RAMO as a paid signal service, SaaS, managed service, or resale product;
+3. bypass, remove, defeat, or redistribute the protected encrypted application payload;
+4. publish decryption keys or private deployment secrets;
+5. remove copyright, license, or attribution notices; or
+6. represent a modified or copied build as an official RAMO release.
+
+THE SOFTWARE AND RUNNER WRAPPER ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, AND NON-INFRINGEMENT. USE IS AT YOUR OWN RISK. RAMO DOES NOT PROVIDE
+FINANCIAL ADVICE OR GUARANTEE TRADING RESULTS.
+
+This is a source-restricted / proprietary license, not an OSI-approved
+open-source license.
